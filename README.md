@@ -14,7 +14,7 @@ untuk mengganti tampilan layar kamera menjadi full screen bisa lihat di windows_
 
 6. Tekan Tombol " q " untuk menutup dan mengakhiri program dan Tekan Tombol " s " untuk mengambil gambar ( screenshoot ) nanti gambar akan muncul di folder script berformat .png
 
-/////////////////////////////////////////////
+
 
 Download Source 
 
