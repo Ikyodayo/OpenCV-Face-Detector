@@ -1,4 +1,4 @@
-TUTORIAL KONFIGURASI OpenCV Face Detector!!
+TUTORIAL KONFIGURASI OpenCV Face Detector
 
 1. Install pada laptop Bahasa Pemrograman Python bisa cek dibawah ini
 
