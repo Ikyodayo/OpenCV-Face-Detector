@@ -1,0 +1,9 @@
+# Display the frame in a square window
+  cv2.imshow('Video', frame)
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+  # Display the frame in fullscreen
+    cv2.namedWindow('Detection', cv2.WND_PROP_FULLSCREEN)
+    cv2.setWindowProperty('Detection', cv2.WND_PROP_FULLSCREEN, cv2.WINDOW_FULLSCREEN)
+    cv2.imshow('Detection', frame)
